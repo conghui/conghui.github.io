@@ -2,38 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Conghui He
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 13th September 1990
+    - name: Position
+      value: Research Director, Sensetime
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Tsinghua University
+      institution: I received my PhD degress from the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. <a href="http://47.94.243.94/mediawiki/index.php/Haohuan_Fu">Haohuan Fu</a>.
+      year: 2018
+    
+    - title: Imperial College, London
+      institution: Visiting PhD student in <a href="http://cc.doc.ic.ac.uk/">Custom Computing Group</a>, supervised by Prof. <a href="https://www.doc.ic.ac.uk/~wl/">Wayne Luk</a>.
+      year: 2017
+
+    - title: Stanford
+      institution: Visiting PhD student in <a href="https://sep.sites.stanford.edu/">Stanford Exploration Project(SEP) Group</a>, supervised by Prof. <a href="http://sepwww.stanford.edu/sep/bob/">Bob Clapp</a>.
+      year: 2016
+
+    - title: Sun Yat-sen University
+      institution: I received my Bachelor's degree from the Department of Software Engineering at Sun Yat-Sen University.
+      year: 2013
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist & PI
+      institution: Shanghai AI Laboratory
+      year: 2021 - now
       description:
         - Description 1.
         - Description 2.
@@ -41,25 +40,17 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Director
+      institution: SenseTime Inc.
+      year: 2019 - now
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Senior Researcher
+      institution: Wechat, Tencent
+      year: 2018-2019
+      description: ff
 
 - title: Open Source Projects
   type: time_table
@@ -68,7 +59,7 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Selected Awards
   type: time_table
   contents:
     - year: 1921

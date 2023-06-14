@@ -2,16 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: conghui_avatar.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,8 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Research Director, Sensetime
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research Scientist & PI, Shanghai AI Laboratory
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I am currently a Research Director at SenseTime Inc., as well as a Research Scientist and PI at the Shanghai AI Laboratory. Prior to this, I worked at WeChat as a Senior Researcher, where I initiated and developed the high-performance graph computing framework, [Plato](https://github.com/Tencent/plato). Before joining WeChat, I earned my PhD degree (2013-2018) from the Department of Computer Science at Tsinghua University under the supervision of Prof. [Haohuan Fu](http://47.94.243.94/mediawiki/index.php/Haohuan_Fu), and my Bachelor's degree (2009-2013) from the Department of Software Engineering at Sun Yat-Sen University.
+
+My research interests include High Performance Computing, Computer Vision, and Large Language Models. In 2017, I was honored with the [Gordon Bell Prize](https://awards.acm.org/bell) , which is the highest distinction in the high-performance computing application domain. Currently, I lead the [OpenDataLab](https://opendatalab.com/) team, which aims to build an influential open dataset platform that accelerates research in the field of Artificial General Intelligence (AGI). Additionally, I oversee a data team that collects and curates massive datasets for large language models.
+
+At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
