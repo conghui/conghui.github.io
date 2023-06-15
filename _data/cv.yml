@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Conghui He
-    - name: Date of Birth
-      value: 13th September 1990
     - name: Position
       value: Research Director, Sensetime
+    - name: Email
+      value: heconghui@sensetime; heconghui@pjlab.org.cn
 
 - title: Education
   type: time_table
