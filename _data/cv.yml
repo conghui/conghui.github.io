@@ -12,15 +12,15 @@
   type: time_table
   contents:
     - title: Tsinghua University
-      institution: I received my PhD degress from the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. <a href="http://47.94.243.94/mediawiki/index.php/Haohuan_Fu">Haohuan Fu</a>.
+      institution: I received my Ph.D. degree from the Department of Computer Science and Technology at Tsinghua University, under the supervision of Prof. <a href="http://47.94.243.94/mediawiki/index.php/Haohuan_Fu">Haohuan Fu</a>.
       year: 2018
     
     - title: Imperial College, London
-      institution: Visiting PhD student in <a href="http://cc.doc.ic.ac.uk/">Custom Computing Group</a>, supervised by Prof. <a href="https://www.doc.ic.ac.uk/~wl/">Wayne Luk</a>.
+      institution: Visiting Ph.D. student in the <a href="http://cc.doc.ic.ac.uk/">Custom Computing Group</a>, supervised by Prof. <a href="https://www.doc.ic.ac.uk/~wl/">Wayne Luk</a>.
       year: 2017
 
     - title: Stanford
-      institution: Visiting PhD student in <a href="https://sep.sites.stanford.edu/">Stanford Exploration Project(SEP) Group</a>, supervised by Prof. <a href="http://sepwww.stanford.edu/sep/bob/">Bob Clapp</a>.
+      institution: Visiting Ph.D. student in the <a href="https://sep.sites.stanford.edu/">Stanford Exploration Project(SEP) Group</a>, supervised by Prof. <a href="http://sepwww.stanford.edu/sep/bob/">Bob Clapp</a>.
       year: 2016
 
     - title: Sun Yat-sen University
@@ -34,55 +34,39 @@
       institution: Shanghai AI Laboratory
       year: 2021 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Research Director
+        - Founder of <a href="https://opendatalab.com/">OpenDataLab</a>, an open dataset platform that accelerates AGI.
+        - Leading a product and engineering group dedicated to collecting and curating massive training & evaluation datasets for LLMs.
+        - Leading a small research team focused on exploring the potential of AGI in Remote Sensing.
+
+    - title: Technical Director
       institution: SenseTime Inc.
       year: 2019 - now
       description:
-        - Description 1.
-        - Description 2.
+        - Project Leader of SenseBee, an industrial-level smart labeling platform that empowers the development of over 70,000 models with billions of labeled images and video clips.
+        - Project leader of SenseData, the leading AI data platform in Sensetime.
 
     - title: Senior Researcher
       institution: Wechat, Tencent
       year: 2018-2019
-      description: ff
+      description: I initiated and developed the high-performance graph computing framework, <a href="https://github.com/Tencent/plato">Plato</a>, which reduced the computing time of full-scale social networks on WeChat from days to minutes. Our team won the Technology Breakthrough Grand Prize Award at Tencent Inc.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/opendatalab/labelU">LabelU</a>
+      year: 2022-now
+      description: A smart labeling toolbox for text, images, videos, and point cloud with unified output format.
 
 - title: Selected Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Technology Breakthrough Grand Prize Award in Tencent Inc.
+    - year: 2017
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - <a href="https://awards.acm.org/bell">Gordon Bell Prize</a>
+        - National Scholarship for PhD in Tsinghua University
+    - year: 2013
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Champion in IEEE-IBM Smarter Planet Challenge Student Competition
