@@ -125,7 +125,23 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">ISPRS</abbr></div>
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/li2023joint-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/li2023joint-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/li2023joint-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/li2023joint.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="li2023joint.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
 
         <!-- Entry bib key -->
         <div id="li2023joint" class="col-sm-8">
@@ -135,7 +151,20 @@
         <div class="author">
         
 
-        Weijia Li, Wenqian Zhao, Jinhua Yu, Juepeng Zheng, Conghui He, Haohuan Fu, and Dahua Lin</div>
+        Weijia Li, Wenqian Zhao, Jinhua Yu, and
+          <span class="more-authors" title="click to view 4 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '4 more authors' ? 'Juepeng Zheng, Conghui He, Haohuan Fu, Dahua Lin' : '4 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">4 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -150,6 +179,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271623001272#b32" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="/assets/pdf/li2023joint.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
           
           <div class="badges">
@@ -190,11 +220,11 @@
         <div class="author">
         
 
-        Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, and
-          <span class="more-authors" title="click to view 3 more authors" onclick="
+        Peng Gao, Jiaming Han, Renrui Zhang, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'Conghui He, Xiangyu Yue,  others' : '3 more authors';
+                var more_authors_text = element.text() == '8 more authors' ? 'Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue,  others' : '8 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -202,7 +232,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">3 more authors</span>
+              ">8 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -260,11 +290,11 @@
         <div class="author">
         
 
-        Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, Bin Wang, Conghui He, and
-          <span class="more-authors" title="click to view 1 more author" onclick="
+        Jiaqi Wang, Pan Zhang, Tao Chu, and
+          <span class="more-authors" title="click to view 6 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '1 more author' ? 'Dahua Lin' : '1 more author';
+                var more_authors_text = element.text() == '6 more authors' ? 'Yuhang Cao, Yujie Zhou, Tong Wu, Bin Wang, Conghui He, Dahua Lin' : '6 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -272,7 +302,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">1 more author</span>
+              ">6 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -329,7 +359,20 @@
         <div class="author">
         
 
-        Xiaosong Jia, Penghao Wu, Li Chen, Jiangwei Xie, Conghui He, Junchi Yan, and Hongyang Li</div>
+        Xiaosong Jia, Penghao Wu, Li Chen, and
+          <span class="more-authors" title="click to view 4 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '4 more authors' ? 'Jiangwei Xie, Conghui He, Junchi Yan, Hongyang Li' : '4 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">4 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -369,7 +412,20 @@
         <div class="author">
         
 
-        Weijia Li, Yawen Lai, Linning Xu, Yuanbo Xiangli, Jinhua Yu, Conghui He, Gui-Song Xia, and Dahua Lin</div>
+        Weijia Li, Yawen Lai, Linning Xu, and
+          <span class="more-authors" title="click to view 5 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '5 more authors' ? 'Yuanbo Xiangli, Jinhua Yu, Conghui He, Gui-Song Xia, Dahua Lin' : '5 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">5 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -411,7 +467,20 @@
         <div class="author">
         
 
-        Yiqi Lin, Huabin Zheng, Huaping Zhong, Jinjing Zhu, Weijia Li, Conghui He, and Lin Wang</div>
+        Yiqi Lin, Huabin Zheng, Huaping Zhong, and
+          <span class="more-authors" title="click to view 4 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '4 more authors' ? 'Jinjing Zhu, Weijia Li, Conghui He, Lin Wang' : '4 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">4 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -449,11 +518,11 @@
         <div class="author">
         
 
-        Li Chen, Chonghao Sima, Yang Li, Zehan Zheng, Jiajie Xu, Xiangwei Geng, Hongyang Li, Conghui He, and
-          <span class="more-authors" title="click to view 3 more authors" onclick="
+        Li Chen, Chonghao Sima, Yang Li, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'Jianping Shi, Yu Qiao,  others' : '3 more authors';
+                var more_authors_text = element.text() == '8 more authors' ? 'Zehan Zheng, Jiajie Xu, Xiangwei Geng, Hongyang Li, Conghui He, Jianping Shi, Yu Qiao,  others' : '8 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -461,7 +530,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">3 more authors</span>
+              ">8 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -500,7 +569,20 @@
         <div class="author">
         
 
-        Stephen Yang, Bin Wang, Weijia Li, YiQi Lin, Conghui He, and  others</div>
+        Stephen Yang, Bin Wang, Weijia Li, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'YiQi Lin, Conghui He,  others' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -542,7 +624,20 @@
         <div class="author">
         
 
-        Weijia Li, Wenqian Zhao, Huaping Zhong, Conghui He, and Dahua Lin</div>
+        Weijia Li, Wenqian Zhao, Huaping Zhong, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Conghui He, Dahua Lin' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -580,11 +675,11 @@
         <div class="author">
         
 
-        Jing Shao, Siyu Chen, Yangguang Li, Kun Wang, Zhenfei Yin, Yinan He, Jianing Teng, Qinghong Sun, and
-          <span class="more-authors" title="click to view 3 more authors" onclick="
+        Jing Shao, Siyu Chen, Yangguang Li, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'Mengya Gao, Jihao Liu,  others' : '3 more authors';
+                var more_authors_text = element.text() == '8 more authors' ? 'Kun Wang, Zhenfei Yin, Yinan He, Jianing Teng, Qinghong Sun, Mengya Gao, Jihao Liu,  others' : '8 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -592,7 +687,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">3 more authors</span>
+              ">8 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -631,7 +726,20 @@
         <div class="author">
         
 
-        Zhuoming Liu, Hao Ding, Huaping Zhong, Weijia Li, Jifeng Dai, and Conghui He</div>
+        Zhuoming Liu, Hao Ding, Huaping Zhong, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Weijia Li, Jifeng Dai, Conghui He' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -669,7 +777,20 @@
         <div class="author">
         
 
-        Weijia Li, Lingxuan Meng, Jinwang Wang, Conghui He, Gui-Song Xia, and Dahua Lin</div>
+        Weijia Li, Lingxuan Meng, Jinwang Wang, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Conghui He, Gui-Song Xia, Dahua Lin' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -710,7 +831,20 @@
         <div class="author">
         
 
-        Tai Wang, Conghui He, Zhe Wang, Jianping Shi, and Dahua Lin</div>
+        Tai Wang, Conghui He, Zhe Wang, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Jianping Shi, Dahua Lin' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -751,7 +885,20 @@
         <div class="author">
         
 
-        Weijia Li, Conghui He, Haohuan Fu, Juepeng Zheng, Runmin Dong, Maocai Xia, Le Yu, and Wayne Luk</div>
+        Weijia Li, Conghui He, Haohuan Fu, and
+          <span class="more-authors" title="click to view 5 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '5 more authors' ? 'Juepeng Zheng, Runmin Dong, Maocai Xia, Le Yu, Wayne Luk' : '5 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">5 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -789,7 +936,20 @@
         <div class="author">
         
 
-        Weijia Li, Conghui He, Jiarui Fang, Juepeng Zheng, Haohuan Fu, and Le Yu</div>
+        Weijia Li, Conghui He, Jiarui Fang, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Juepeng Zheng, Haohuan Fu, Le Yu' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -827,11 +987,11 @@
         <div class="author">
         
 
-        Jingheng Xu, Haohuan Fu, Wayne Luk, Lin Gan, Wen Shi, Wei Xue, Chao Yang, Yong Jiang, and
-          <span class="more-authors" title="click to view 2 more authors" onclick="
+        Jingheng Xu, Haohuan Fu, Wayne Luk, and
+          <span class="more-authors" title="click to view 7 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '2 more authors' ? 'Conghui He, Guangwen Yang' : '2 more authors';
+                var more_authors_text = element.text() == '7 more authors' ? 'Lin Gan, Wen Shi, Wei Xue, Chao Yang, Yong Jiang, Conghui He, Guangwen Yang' : '7 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -839,7 +999,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">2 more authors</span>
+              ">7 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -878,7 +1038,20 @@
         <div class="author">
         
 
-        Conghui He, Shijie Sun, Benli Li, Xiaogang Tu, and Donghai Yu</div>
+        Conghui He, Shijie Sun, Benli Li, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Xiaogang Tu, Donghai Yu' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -920,11 +1093,11 @@
         <div class="author">
         
 
-        Bingwei Chen, Haohuan Fu, Yanwen Wei, Conghui He, Wenqiang Zhang, Yuxuan Li, Wubin Wan, Wei Zhang, and
-          <span class="more-authors" title="click to view 3 more authors" onclick="
+        Bingwei Chen, Haohuan Fu, Yanwen Wei, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'Lin Gan, Zhenguo Zhang,  others' : '3 more authors';
+                var more_authors_text = element.text() == '8 more authors' ? 'Conghui He, Wenqiang Zhang, Yuxuan Li, Wubin Wan, Wei Zhang, Lin Gan, Zhenguo Zhang,  others' : '8 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -932,7 +1105,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">3 more authors</span>
+              ">8 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -971,7 +1144,20 @@
         <div class="author">
         
 
-        Liandeng Li, Jiarui Fang, Haohuan Fu, Jinlei Jiang, Wenlai Zhao, Conghui He, Xin You, and Guangwen Yang</div>
+        Liandeng Li, Jiarui Fang, Haohuan Fu, and
+          <span class="more-authors" title="click to view 5 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '5 more authors' ? 'Jinlei Jiang, Wenlai Zhao, Conghui He, Xin You, Guangwen Yang' : '5 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">5 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1009,7 +1195,20 @@
         <div class="author">
         
 
-        Weijia Li, Conghui He, Jiarui Fang, and Haohuan Fu</div>
+        Weijia Li, Conghui He, Jiarui Fang, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Haohuan Fu' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1051,7 +1250,20 @@
         <div class="author">
         
 
-        Conghui He, Haohuan Fu, Ce Guo, Wayne Luk, and Guangwen Yang</div>
+        Conghui He, Haohuan Fu, Ce Guo, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Wayne Luk, Guangwen Yang' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1089,11 +1301,11 @@
         <div class="author">
         
 
-        Haohuan Fu, Conghui He, Bingwei Chen, Zekun Yin, Zhenguo Zhang, Wenqiang Zhang, Tingjian Zhang, Wei Xue, and
-          <span class="more-authors" title="click to view 3 more authors" onclick="
+        Haohuan Fu, Conghui He, Bingwei Chen, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'Weiguo Liu, Wanwang Yin,  others' : '3 more authors';
+                var more_authors_text = element.text() == '8 more authors' ? 'Zekun Yin, Zhenguo Zhang, Wenqiang Zhang, Tingjian Zhang, Wei Xue, Weiguo Liu, Wanwang Yin,  others' : '8 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -1101,7 +1313,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">3 more authors</span>
+              ">8 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -1140,7 +1352,20 @@
         <div class="author">
         
 
-        Weijia Li, Conghui He, Haohuan Fu, and Wayne Luk</div>
+        Weijia Li, Conghui He, Haohuan Fu, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Wayne Luk' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1178,7 +1403,20 @@
         <div class="author">
         
 
-        Conghui He, Haohuan Fu, Wayne Luk, Weijia Li, and Guangen Yang</div>
+        Conghui He, Haohuan Fu, Wayne Luk, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Weijia Li, Guangen Yang' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1216,7 +1454,20 @@
         <div class="author">
         
 
-        C He, H Fu, Y Shen, R Clapp, and G Yang</div>
+        C He, H Fu, Y Shen, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'R Clapp, G Yang' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1254,7 +1505,20 @@
         <div class="author">
         
 
-        Conghui He, Haohuan Fu, Ce Guo, Wayne Luk, and Guangwen Yang</div>
+        Conghui He, Haohuan Fu, Ce Guo, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Wayne Luk, Guangwen Yang' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1292,7 +1556,20 @@
         <div class="author">
         
 
-        Haohuan Fu, Conghui He, Wayne Luk, Weijia Li, and Guangwen Yang</div>
+        Haohuan Fu, Conghui He, Wayne Luk, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Weijia Li, Guangwen Yang' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1330,11 +1607,11 @@
         <div class="author">
         
 
-        Haohuan Fu, Conghui He, Huabin Ruan, Itay Greenspon, Wayne Luk, Yongkang Zheng, Junfeng Liao, Qing Zhang, and
-          <span class="more-authors" title="click to view 1 more author" onclick="
+        Haohuan Fu, Conghui He, Huabin Ruan, and
+          <span class="more-authors" title="click to view 6 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '1 more author' ? 'Guangwen Yang' : '1 more author';
+                var more_authors_text = element.text() == '6 more authors' ? 'Itay Greenspon, Wayne Luk, Yongkang Zheng, Junfeng Liao, Qing Zhang, Guangwen Yang' : '6 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -1342,7 +1619,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">1 more author</span>
+              ">6 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -1385,11 +1662,11 @@
         <div class="author">
         
 
-        Haohuan Fu, Junfeng Liao, Wei Xue, Lanning Wang, Dexun Chen, Long Gu, Jinxiu Xu, Nan Ding, and
-          <span class="more-authors" title="click to view 3 more authors" onclick="
+        Haohuan Fu, Junfeng Liao, Wei Xue, and
+          <span class="more-authors" title="click to view 8 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '3 more authors' ? 'Xinliang Wang, Conghui He,  others' : '3 more authors';
+                var more_authors_text = element.text() == '8 more authors' ? 'Lanning Wang, Dexun Chen, Long Gu, Jinxiu Xu, Nan Ding, Xinliang Wang, Conghui He,  others' : '8 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -1397,7 +1674,7 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">3 more authors</span>
+              ">8 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -1436,7 +1713,20 @@
         <div class="author">
         
 
-        Yushu Chen, Guangwen Yang, Xiao Ma, Conghui He, and Guojie Song</div>
+        Yushu Chen, Guangwen Yang, Xiao Ma, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Conghui He, Guojie Song' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1478,7 +1768,20 @@
         <div class="author">
         
 
-        Conghui He, Haohuan Fu, Bangtian Liu, Huabin Ruan, Guangwen Yang, Hui Yang, and Are Osen</div>
+        Conghui He, Haohuan Fu, Bangtian Liu, and
+          <span class="more-authors" title="click to view 4 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '4 more authors' ? 'Huabin Ruan, Guangwen Yang, Hui Yang, Are Osen' : '4 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">4 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1516,7 +1819,20 @@
         <div class="author">
         
 
-        C He, Y Chen, H Fu, and G Yang</div>
+        C He, Y Chen, H Fu, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'G Yang' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -1557,7 +1873,20 @@
         <div class="author">
         
 
-        Nicholas Clinton, Le Yu, Haohuan Fu, Conghui He, and Peng Gong</div>
+        Nicholas Clinton, Le Yu, Haohuan Fu, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Conghui He, Peng Gong' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
