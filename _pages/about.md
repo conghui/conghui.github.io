@@ -38,8 +38,9 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 
 # 💻 Projects
 - [OpenDataLab](https://opendatalab.com/), an open platform that facilitates the development of AGI by sharing datasets and open-sourced tools. It hosts over 7700 datasets and provides 50+ million data retrieval services to over 40,000 developers.
-- [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), a one-stop, open-sourced and high-quality data extraction tool that supports PDF, webpage and e-book extraction. It is widely used in RAG as well as in training LLMs.  [(https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU)
-- [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet)
+- [InternLM ![](https://img.shields.io/github/stars/InternLM/InternLM?style=social)](https://github.com/InternLM/InternLM), a series of 7B and 20B base and chat models, featuring outstanding reasoning capability, 1M context window and the ability to use tools.  
+- [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), a one-stop, open-sourced and high-quality data extraction tool that supports PDF, webpage and e-book extraction. It is widely used in RAG as well as in training LLMs. 
+- [PDF-Extract-Kit ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit?style=social)](https://github.com/opendatalab/PDF-Extract-Kit), a comprehensive toolkit for high-quality PDF content extraction library.
 
 # 📝 Publications 
 
