@@ -24,13 +24,13 @@ My research interests include High Performance Computing, Computer Vision, and L
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 4 papers are accepted by ECCV 2024 [[1*](https://arxiv.org/abs/2312.14232)][2*][[3](https://arxiv.org/abs/2311.12793)][[4](https://arxiv.org/abs/2307.06281)].
-- *2024.05*: &nbsp;🎉 1 paper is accepted by ICML 2024.
-- *2024.05*: &nbsp;🎉 2 papers are accepted by ACL 2024.
+- *2024.07*: &nbsp;🎉🎉 [[1*](https://arxiv.org/abs/2312.14232)][2*][[3](https://arxiv.org/abs/2311.12793)][[4](https://arxiv.org/abs/2307.06281)] papers are accepted by ECCV 2024.
+- *2024.05*: &nbsp;🎉 [[1](https://arxiv.org/abs/2402.05935)] paper is accepted by ICML 2024.
+- *2024.05*: &nbsp;🎉 [[1*](https://arxiv.org/abs/2403.14112)][[2](https://arxiv.org/abs/2403.07920)] papers are accepted by ACL 2024.
 - *2024.03*: &nbsp; We release [Wanjuan-CC](https://opendatalab.com/OpenDataLab/WanJuanCC), a safe and high-quality Webtext dataset.
-- *2024.02*: &nbsp;🎉 3 papers are accepted by CVPR 2024.
+- *2024.02*: &nbsp;🎉 [[1*](https://arxiv.org/abs/2404.04823)][[2](https://arxiv.org/abs/2404.02638)][[3](https://arxiv.org/abs/2311.17911)] papers are accepted by CVPR 2024.
 - *2023.09*: &nbsp; We release [InternLM2](https://github.com/InternLM/InternLM). See [arXiv](https://arxiv.org/abs/2403.17297) for details.
-- *2023.09*: &nbsp;🎉 [VIGC](https://opendatalab.github.io/VIGC/) is accepted by AAAI 2024.
+- *2023.09*: &nbsp;🎉 [[1](https://arxiv.org/abs/2308.12714)] paper is accepted by AAAI 2024.
 - *2023.08*: &nbsp; We release [Wanjuan 1.0](https://opendatalab.com/OpenDataLab/WanJuan1_dot_0), a large-scale multi-modal dataset for pretraining.
 - *2023.06*: &nbsp; We release [InternLM](https://github.com/InternLM/InternLM). You can find technical report [here](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf).
 - *2022.03*: &nbsp; We launch [OpenDataLab](https://opendatalab.com/), an open data platform that enpowers AGI.
