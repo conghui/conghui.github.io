@@ -24,7 +24,7 @@ My research interests include High Performance Computing, Computer Vision, and L
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 4 papers are accepted by ECCV 2024.
+- *2024.07*: &nbsp;🎉 4 papers are accepted by ECCV 2024 [[1*](https://arxiv.org/abs/2312.14232)][2*][[3](https://arxiv.org/abs/2311.12793)][[4](https://arxiv.org/abs/2307.06281)].
 - *2024.05*: &nbsp;🎉 1 paper is accepted by ICML 2024.
 - *2024.05*: &nbsp;🎉 2 papers are accepted by ACL 2024.
 - *2024.03*: &nbsp; We release [Wanjuan-CC](https://opendatalab.com/OpenDataLab/WanJuanCC), a safe and high-quality Webtext dataset.
@@ -189,4 +189,4 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 - *2017*, ACM Gordon Bell Prize (the highest award in the field of high-performance computing applications)
 - *2017*, National PhD Scholarship
 - *2013*, Global Champion of the IEEE-IBM Smarter Planet Challenge (Team Leader, 1/54)
-- *2010*, National Scholarship
+- *2010*, National Scholarshipgit lo
