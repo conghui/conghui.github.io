@@ -35,6 +35,12 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 - *2023.06*: &nbsp; We release [InternLM](https://github.com/InternLM/InternLM). You can find technical report [here](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf).
 - *2022.03*: &nbsp; We launch [OpenDataLab](https://opendatalab.com/), an open data platform that enpowers AGI.
 
+
+# 💻 Projects
+- [OpenDataLab](https://opendatalab.com/), an open platform that facilitates the development of AGI by sharing datasets and open-sourced tools. It hosts over 7700 datasets and provides 50+ million data retrieval services to over 40,000 developers.
+- [MinerU](https://github.com/opendatalab/MinerU), a one-stop, open-sourced and high-quality data extraction tool that supports PDF, webpage and e-book extraction. It is widely used in RAG as well as in training LLMs.  [(https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU)
+  
+
 # 📝 Publications 
 
 - Jiaxing Sun, Weiquan Huang, Jiang Wu, Chenya Gu, Wei Li, Songyang Zhang, Hang Yan, **Conghui He***, "Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations," in *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics*, 2024. 
@@ -193,6 +199,3 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Projects
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
