@@ -24,17 +24,20 @@ My research interests include High Performance Computing, Computer Vision, and L
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
 
+My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=PopTv7kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
+
+
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 4 papers are accepted by ECCV 2024.
-- *2024.05*: &nbsp;🎉🎉 1 paper is accepted by ICML 2024.
-- *2024.05*: &nbsp;🎉🎉 2 papers are accepted by ACL 2024.
-- *2024.03*: &nbsp;🎉🎉 We release [Wanjuan-CC](https://opendatalab.com/OpenDataLab/WanJuanCC), a safe and high-quality Webtext dataset.
-- *2024.02*: &nbsp;🎉🎉 3 papers are accepted by CVPR 2024.
-- *2023.09*: &nbsp;🎉🎉 We release [InternLM2](https://github.com/InternLM/InternLM). See [arXiv](https://arxiv.org/abs/2403.17297) for details.
-- *2023.09*: &nbsp;🎉🎉 [VIGC](https://opendatalab.github.io/VIGC/) is accepted by AAAI 2024.
-- *2023.08*: &nbsp;🎉🎉 We release [Wanjuan 1.0](https://opendatalab.com/OpenDataLab/WanJuan1_dot_0), a large-scale multi-modal dataset for pretraining.
-- *2023.06*: &nbsp;🎉🎉 We release [InternLM](https://github.com/InternLM/InternLM). You can find technical report [here](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf).
-- *2022.03*: &nbsp;🎉🎉 We launch [OpenDataLab](https://opendatalab.com/), an open data platform that enpowers AGI.
+- *2024.07*: &nbsp;🎉 4 papers are accepted by ECCV 2024.
+- *2024.05*: &nbsp;🎉 1 paper is accepted by ICML 2024.
+- *2024.05*: &nbsp;🎉 2 papers are accepted by ACL 2024.
+- *2024.03*: &nbsp; We release [Wanjuan-CC](https://opendatalab.com/OpenDataLab/WanJuanCC), a safe and high-quality Webtext dataset.
+- *2024.02*: &nbsp;🎉 3 papers are accepted by CVPR 2024.
+- *2023.09*: &nbsp; We release [InternLM2](https://github.com/InternLM/InternLM). See [arXiv](https://arxiv.org/abs/2403.17297) for details.
+- *2023.09*: &nbsp;🎉 [VIGC](https://opendatalab.github.io/VIGC/) is accepted by AAAI 2024.
+- *2023.08*: &nbsp; We release [Wanjuan 1.0](https://opendatalab.com/OpenDataLab/WanJuan1_dot_0), a large-scale multi-modal dataset for pretraining.
+- *2023.06*: &nbsp; We release [InternLM](https://github.com/InternLM/InternLM). You can find technical report [here](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf).
+- *2022.03*: &nbsp; We launch [OpenDataLab](https://opendatalab.com/), an open data platform that enpowers AGI.
 
 # 📝 Publications 
 
