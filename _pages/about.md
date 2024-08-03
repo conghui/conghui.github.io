@@ -176,16 +176,24 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 - Nicholas Clinton, Le Yu, Haohuan Fu, **Conghui He**, and Peng Gong, ``Global-Scale Associations of Vegetation Phenology with Rainfall and Temperature at a High Spatio-Temporal Resolution'',  *Remote Sensing*vol. 6, no. 8, 2014, pages 7320-7338.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*, SenseTime Award (Sensetime's highest award, 1 team from 100 teams)
+- *2021*, Outstanding Team Award at SenseTime (10 teams from 200 teams)
+- *2019*, Tencent Technology Breakthrough Award - Gold Prize (highest technical award, 1 team from 50 teams)
+- *2018*, Outstanding Graduate PhD Student Award
+- *2017*, ACM Gordon Bell Prize (the highest award in the field of high-performance computing applications)
+- *2017*, National PhD Scholarship
+- *2013*, Global Champion of the IEEE-IBM Smarter Planet Challenge (Team Leader, 1/54)
+- *2010*, National Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2018.07*, PhD, Computer Science and Technology, Tsinghua University
+- *2016.11 - 2017.11*, Visiting PhD Scholar, Imperial College London
+- *2016.07 - 2016.10*, Visiting PhD Scholar, Stanford University
+- *2009.09 - 2013.07*, Bachelor, Software Engineering, Sun Yat-Sen University
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Projects
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
