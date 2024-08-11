@@ -42,25 +42,22 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 - [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), a one-stop, open-sourced and high-quality data extraction tool that supports PDF, webpage and e-book extraction. It is widely used in RAG as well as in training LLMs. 
 - [PDF-Extract-Kit ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit?style=social)](https://github.com/opendatalab/PDF-Extract-Kit), a comprehensive toolkit for high-quality PDF content extraction library.
 
-# 📝 Publications
-Selected publications, which are mainly attributed to the first author or corresponding author. For a full list, please refer to my [google scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ). 
-(* Interns & Students, † Corresponding Authors) 
+# 📝 Publications ([Google Scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ))
+For a full list, please refer to my [google scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ). (* Interns & Students, † Corresponding Authors) 
 
-## 📚 Data-Centric AI
-1. `ECCV 2024` [Parrot Captions Teach CLIP to Spot Text](https://arxiv.org/abs/2312.14232), Yiqi Lin*, **Conghui He†**, Alex Jinpeng Wang, Bin Wang, Weijia Li, Mike Zheng Shou
-2. `ECCV 2024` [Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network](), Junyan Ye*, Zhutao Lv, Weijia Li, Jinhua Yu, Haote Yang, Huaping Zhong, **Conghui He†**
+## 📚 Large Language Model (LLM)
+1. `ECCV 2024` [Mmbench: Is your multi-modal model an all-around player?](https://arxiv.org/pdf/2307.06281), Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, **Conghui He**, Ziwei Liu, Kai Chen, Dahua Lin
+2. `ECCV 2024` [Sharegpt4v: Improving large multi-modal models with better captions](https://arxiv.org/pdf/2311.12793), Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, **Conghui He**, Jiaqi Wang, Feng Zhao, Dahua Lin
 3. `ACL 2024` [Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations](https://arxiv.org/abs/2403.14112), Jiaxing Sun*, Weiquan Huang, Jiang Wu, Chenya Gu, Wei Li, Songyang Zhang, Hang Yan, and **Conghui He†**.
-4. `CVPR 2024` [3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions](https://arxiv.org/abs/2404.04823), Weijia Li, Haote Yang, Zhenghao Hu, Juepeng Zheng, Gui-Song Xia, **Conghui He†**
-5. `AAAI 2024` [Vigc: Visual instruction generation and correction](https://arxiv.org/abs/2308.12714), Bin Wang, Fan Wu, Xiao Han, Jiahui Peng, Huaping Zhong, Pan Zhang, Xiaoyi Dong, Weijia Li, Wei Li, Jiaqi Wang, **Conghui He†**
+4. `AAAI 2024` [Vigc: Visual instruction generation and correction](https://arxiv.org/abs/2308.12714), Bin Wang, Fan Wu, Xiao Han, Jiahui Peng, Huaping Zhong, Pan Zhang, Xiaoyi Dong, Weijia Li, Wei Li, Jiaqi Wang, **Conghui He†**
+5. `ECCV 2024` [Parrot Captions Teach CLIP to Spot Text](https://arxiv.org/abs/2312.14232), Yiqi Lin*, **Conghui He†**, Alex Jinpeng Wang, Bin Wang, Weijia Li, Mike Zheng Shou
 6. `CVPR 2023` [Omnicity: Omnipotent city understanding with multi-level and multi-view images](https://arxiv.org/abs/2208.00928), Weijia Li, Yawen Lai, Linning Xu, Yuanbo Xiangli, Jinhua Yu, **Conghui He†**, Gui-Song Xia†, and Dahua Lin. 
-7. `AAAI 2023` [Joint semantic-geometric learning for polygonal building segmentation](https://www.semanticscholar.org/paper/Joint-Semantic-geometric-Learning-for-Polygonal-Li-Zhao/40759bee7b649ad871e2598fd12846b749680e01), Weijia Li, Wenqian Zhao, Huaping Zhong, **Conghui He†**, and Dahua Lin. 
 
-## 💻 High Performance Computing
-1. `BigData 2019` [Finding Mutual X at WeChat-Scale Social Network in Ten Minutes](https://ieeexplore.ieee.org/document/9005513), **Conghui He**, Shijie Sun, Benli Li, Xiaogang Tu, Donghai Yu
+## 💻 High Performance Computing (HPC)
+1. `SC 2017` [18.9-Pflops nonlinear earthquake simulation on Sunway TaihuLight: enabling depiction of 18-Hz and 8-meter scenarios](https://ieeexplore.ieee.org/document/9926274),Haohuan Fu†, **Conghui He†**, Bingwei Chen, Zekun Yin, Zhenguo Zhang et al. (ACM Gordon Bell Prize Award)
 2. `TC 2017` [A fully-pipelined hardware design for gaussian mixture models](https://ieeexplore.ieee.org/document/7938761/), **Conghui He**, Haohuan Fu, Ce Guo, Wayne Luk, Guangwen Yang
-3. `SC 2017` [18.9-Pflops nonlinear earthquake simulation on Sunway TaihuLight: enabling depiction of 18-Hz and 8-meter scenarios](https://ieeexplore.ieee.org/document/9926274),Haohuan Fu†, **Conghui He†**, Bingwei Chen, Zekun Yin, Zhenguo Zhang et al. (ACM Gordon Bell Prize Award)
+3. `BigData 2019` [Finding Mutual X at WeChat-Scale Social Network in Ten Minutes](https://ieeexplore.ieee.org/document/9005513), **Conghui He**, Shijie Sun, Benli Li, Xiaogang Tu, Donghai Yu
 4. `FCCM 2017` [A Nanosecond-level Hybrid Table Design for Financial Market Data Generators](), Haohuan Fu, **Conghui He**, Wayne Luk, Weijia Li, and Guangwen Yang
-5. `FPT 2017` [Exploring the Potential of Reconfigurable Platforms for Order Book Update](), **Conghui He**, Haohuan Fu, Wayne Luk, Weijia Li, and Guangwen Yang
 
 # 🎖 Honors and Awards
 - *2023*, SenseTime Award (Sensetime's highest award, 1 team from 100 teams)
