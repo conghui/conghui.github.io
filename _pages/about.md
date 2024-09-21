@@ -24,7 +24,8 @@ My research interests include High Performance Computing, Computer Vision, and L
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2312.14232)][2†][[3](https://arxiv.org/abs/2311.12793)][[4](https://arxiv.org/abs/2307.06281)] papers are accepted by ECCV 2024.
+- *2024.09*: &nbsp;🎉 [[1](https://arxiv.org/pdf/2406.16554)][[2](https://arxiv.org/pdf/2402.13583)][[3](https://arxiv.org/pdf/2403.02127)] papers are accepted by EMNLP 2024.
+- *2024.07*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2312.14232)][2†](https://arxiv.org/pdf/2408.05475)[[3](https://arxiv.org/abs/2311.12793)][[4](https://arxiv.org/abs/2307.06281)] papers are accepted by ECCV 2024.
 - *2024.05*: &nbsp;🎉 [[1](https://arxiv.org/abs/2402.05935)] paper is accepted by ICML 2024.
 - *2024.05*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2403.14112)][[2](https://arxiv.org/abs/2403.07920)] papers are accepted by ACL 2024.
 - *2024.03*: &nbsp; We release [Wanjuan-CC](https://opendatalab.com/OpenDataLab/WanJuanCC), a safe and high-quality Webtext dataset.
@@ -35,11 +36,10 @@ At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdo
 - *2023.06*: &nbsp; We release [InternLM](https://github.com/InternLM/InternLM). You can find technical report [here](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf).
 - *2022.03*: &nbsp; We launch [OpenDataLab](https://opendatalab.com/), an open data platform that enpowers AGI.
 
-
 # 💻 Projects
 - [OpenDataLab](https://opendatalab.com/)[![](https://img.shields.io/github/stars/opendatalab?style=social)](https://github.com/opendatalab), an open platform that facilitates the development of AGI by sharing datasets and open-sourced tools. It hosts over 7700 datasets and provides 50+ million data retrieval services to over 40,000 developers.
-- [InternLM ![](https://img.shields.io/github/stars/InternLM/InternLM?style=social)](https://github.com/InternLM/InternLM), a series of 7B and 20B base and chat models, featuring outstanding reasoning capability, 1M context window and the ability to use tools.  
 - [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), a one-stop, open-sourced and high-quality data extraction tool that supports PDF, webpage and e-book extraction. It is widely used in RAG as well as in training LLMs. 
+- [InternLM ![](https://img.shields.io/github/stars/InternLM/InternLM?style=social)](https://github.com/InternLM/InternLM), a series of 7B and 20B base and chat models, featuring outstanding reasoning capability, 1M context window and the ability to use tools.  
 - [PDF-Extract-Kit ![](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit?style=social)](https://github.com/opendatalab/PDF-Extract-Kit), a comprehensive toolkit for high-quality PDF content extraction library.
 
 # 📝 Publications ([Google Scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ))
