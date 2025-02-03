@@ -24,6 +24,8 @@ My research interests include High Performance Computing, Computer Vision, and L
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 [1] papers is accepted by NACCL 2025.
+- *2025.01*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2410.09732)][[2†](https://arxiv.org/abs/2406.08418)][[3†](https://arxiv.org/abs/2409.16986)][[4†](https://openreview.net/pdf?id=C25SgeXWjE)][[5](https://arxiv.org/abs/2310.05375)][[6](https://arxiv.org/abs/2412.11863)][[7](https://arxiv.org/abs/2410.17637)]papers are accepted by ICLR 2025.
 - *2024.12*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2408.17267)][[2†](https://arxiv.org/abs/2410.06913)][[3†](https://arxiv.org/abs/2403.20213)] papers are accepted by AAAI 2025.
 - *2024.09*: &nbsp;🎉 [[1](https://arxiv.org/pdf/2404.06512)] papers is accepted by NeurlPS 2024.
 - *2024.09*: &nbsp;🎉 [[1](https://arxiv.org/pdf/2406.16554)][[2](https://arxiv.org/pdf/2402.13583)][[3](https://arxiv.org/pdf/2403.02127)] papers are accepted by EMNLP 2024.
