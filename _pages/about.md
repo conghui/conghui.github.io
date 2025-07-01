@@ -24,6 +24,7 @@ My research interests include High Performance Computing, Computer Vision, and L
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2412.17007)][[2†](https://arxiv.org/abs/2503.15264)][[3†](https://arxiv.org/abs/2412.02592)][[4†](https://arxiv.org/abs/2408.01812)][[5](https://arxiv.org/abs/2506.10857)] papers are accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2503.16212)][2†][[3†](https://arxiv.org/abs/2504.12322)][[4†](https://arxiv.org/abs/2504.14194)][[5†](https://arxiv.org/abs/2503.21500)][[6†](https://arxiv.org/abs/2503.17439)][[7†](https://arxiv.org/abs/2502.11501)][[8](https://arxiv.org/abs/2504.19093)][[9](https://arxiv.org/abs/2402.17645)][[10](https://arxiv.org/abs/2501.12273)][[11](https://arxiv.org/abs/2505.12212)] papers are accepted by ACL 2025.
 - *2025.02*: &nbsp;🎉 [[1†](https://arxiv.org/abs/2412.07626)][[2†](https://arxiv.org/abs/2501.05510)][[3†](https://arxiv.org/abs/2409.03643)][[4](https://arxiv.org/abs/2502.20653)][[5](https://cvpr.thecvf.com/virtual/2025/poster/33817)] papers are accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉 [1] papers is accepted by NACCL 2025.
