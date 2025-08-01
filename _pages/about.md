@@ -43,7 +43,7 @@ I have authored over 150 papers in top-tier venues, garnered over 9,000 citation
 
 1. `ACL 2025` [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://arxiv.org/abs/2504.14194), Xinlin Zhuang, Jiahui Peng, Ren Ma, Yinfan Wang, Tianyi Bai, Xingjian Wei, Jiantao Qiu, Chi Zhang, Ying Qian, **Conghui He†** (**ACL best theme paper** 🎉)
 2. `ICLR 2025` [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/abs/2406.08418), Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, ..., **Conghui He†**, Jifeng Dai
-3. `ECCV 2024` [Mmbench: Is your multi-modal model an all-around player?](https://arxiv.org/pdf/2307.06281), Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, **Conghui He**, Ziwei Liu, Kai Chen, Dahua Lin (over 1000+ citations)
+3. `ECCV 2024` [Mmbench: Is your multi-modal model an all-around player?](https://arxiv.org/pdf/2307.06281), Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, **Conghui He**, Ziwei Liu, Kai Chen, Dahua Lin (**over 1000+ citations** 🎉)
 4. `ECCV 2024` [Sharegpt4v: Improving large multi-modal models with better captions](https://arxiv.org/pdf/2311.12793), Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, **Conghui He**, Jiaqi Wang, Feng Zhao, Dahua Lin
 5. `SC 2017`, [18.9-Pflops Nonlinear Earthquake Simulation on Sunway TaihuLight: Enabling Depiction of 18-Hz and 8-Meter Scenarios](https://ieeexplore.ieee.org/document/9926274), Haohuan Fu, **Conghui He†**, Bingwei Chen, Zekun Yin, Zhenguo Zhang, Wenqiang Zhang, Tingjian Zhang, Wei Xue, Weiguo Liu, Wanwang Yin, Guangwen Yang, Xiaofei Chen (**Gordon Bell Prize** 🎉)
 

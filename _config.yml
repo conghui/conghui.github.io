@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Conghui He (何聪辉)"
-description              : "Senior research director in Sensetime; Young Scientist in Shanghai AI Lab"
+description              : "Young Scientist in Shanghai AI Lab"
 repository               : "conghui/conghui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Conghui He (何聪辉)"
   avatar           : "images/conghui_avatar.jpg"
-  bio              : "Sensetime & Shanghai AI Lab"
+  bio              : "Shanghai AI Lab & Sensetime"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
