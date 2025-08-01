@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am a Young Leading Scientist at the [Shanghai AI Lab](https://www.shlab.org.cn/) and an Adjunct Doctoral Supervisor at [School of AI, SJTU](https://soai.sjtu.edu.cn/). Recognized as a National-level Young Talent, I hold a Ph.D. from Tsinghua University and was a visiting researcher at Stanford University and Imperial College London.
 
 My research in data-centric AI and high-performance computing has driven significant technological innovation and industry impact. I have authored over 150 papers in top-tier venues, garnered over 9,000 citations on Google Scholar, and my open-source projects have attracted a community of over 50,000 stars on GitHub. My accolades include the [Gordon Bell Prize](https://awards.acm.org/bell), an ACL Best Theme Paper Award, and the [WAIC Yunfan Award](https://mp.weixin.qq.com/s/4xoS-GyFfQWzdUKKCP7HNQ). I am the creator of [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), the world's leading open-source data engine for large models. This work, in conjunction with [OpenDataLab](https://opendatalab.com/), has significantly influenced the AI and open-source landscape. Additionally, I oversee a dedicated data team that curates high-quality datasets for leading models such as [InternLM](https://github.com/InternLM) and [InternVL](https://github.com/OpenGVLab/InternVL).
