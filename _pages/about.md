@@ -27,6 +27,9 @@ We are hiring! I am actively seeking talented Ph.D. students, postdoctoral fello
 
 
 # 🔥 Recent News
+
+- *2025.09*: &nbsp;🎉 [MinerU 2.5](https://github.com/opendatalab/MinerU) is released! A 1.2B-parameter document parsing vision-language model that achieves state-of-the-art recognition accuracy while maintaining exceptional computational efficiency. [[Tech Report](https://arxiv.org/abs/2509.22186)] [[Model](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B)] [[GitHub](https://github.com/opendatalab/MinerU)]
+- *2025.09*: &nbsp;🎉 [[1](https://openreview.net/pdf?id=b7bOWd3kUL)][[2](https://openreview.net/pdf?id=gZjPllL9jM)][[3](https://openreview.net/pdf?id=g0AMmWiHCq)][[4](https://arxiv.org/abs/2503.14905)][[5](https://arxiv.org/abs/2506.07227)][[6](https://arxiv.org/abs/2506.07235)] papers are accepted by NIPS 2025.
 - *2025.07*: &nbsp;🎉 I received the ACL Best Theme Paper Award [[1](https://arxiv.org/pdf/2504.14194)].
 - *2025.07*: &nbsp;🎉 I won the World Artificial Intelligence Conference Yunfan Award (one of 11 global recipients under the age of 35, 2025)
 - *2025.05*: &nbsp;🎉 [[1](https://arxiv.org/abs/2412.17007)][[2](https://arxiv.org/abs/2503.15264)][[3](https://arxiv.org/abs/2412.02592)][[4](https://arxiv.org/abs/2408.01812)][[5](https://arxiv.org/abs/2506.10857)] papers are accepted by ICCV 2025.
