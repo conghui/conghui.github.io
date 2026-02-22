@@ -167,7 +167,7 @@ def fetch_author(author_id: str) -> dict:
 ### Key Configuration
 
 - **Repository**: `conghui/conghui.github.io`
-- **Site URL**: Configured in `_config.yml`
+- **Site URL**: https://conghui.ai
 - **Google Scholar**: Uses CDN for stats display
 
 ---

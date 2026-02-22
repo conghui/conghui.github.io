@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Conghui He (何聪辉)"
 description              : "Young Leading Scientist"
+url                      : "https://conghui.ai"
+baseurl                 : ""
 repository               : "conghui/conghui.github.io"
 google_scholar_stats_use_cdn : true
 google_scholar_stats_use_local : false
