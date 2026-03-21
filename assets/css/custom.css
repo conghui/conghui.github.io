@@ -1,0 +1,165 @@
+/* ============================================
+   Custom Visual Upgrade - Leader Brand Style
+   ============================================ */
+
+/* --- Hero Section Enhancement --- */
+#about-me {
+  margin-bottom: 1.5em;
+}
+
+#about-me + p:first-of-type,
+.page__content > p:first-of-type {
+  font-size: 1.1em;
+  line-height: 1.75;
+  color: #2d3748;
+}
+
+/* --- Section Headings --- */
+.page__content h1 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 2.5em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #e2e8f0;
+  color: #1a1a2e;
+}
+
+.page__content h1:first-of-type {
+  margin-top: 0;
+}
+
+/* --- Impact Cards --- */
+.paper-box {
+  margin-bottom: 1.2em !important;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.paper-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.paper-box-text {
+  padding: 1.2em 1.5em !important;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+}
+
+/* --- Navbar Enhancement --- */
+.greedy-nav {
+  background: #1a1a2e !important;
+}
+
+.greedy-nav a {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-weight: 500;
+  font-size: 0.9em;
+  letter-spacing: 0.02em;
+}
+
+.greedy-nav a:hover {
+  color: #fff !important;
+}
+
+.greedy-nav .site-title {
+  color: #fff !important;
+  font-weight: 600;
+}
+
+/* --- Author Profile Sidebar --- */
+.author__name {
+  font-weight: 700;
+  font-size: 1.1em;
+  color: #1a1a2e;
+}
+
+.author__bio {
+  font-size: 0.85em;
+  color: #4a5568;
+  line-height: 1.5;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 3px solid #e2e8f0;
+  transition: border-color 0.2s ease;
+}
+
+.author__avatar img:hover {
+  border-color: #1e3a5f;
+}
+
+/* --- Links --- */
+.page__content a {
+  color: #1e3a5f;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.page__content a:hover {
+  border-bottom-color: #1e3a5f;
+}
+
+/* --- Publication List --- */
+.page__content ol {
+  line-height: 1.8;
+}
+
+.page__content ol li {
+  margin-bottom: 0.8em;
+  padding-left: 0.2em;
+}
+
+/* --- Honors/Talks Lists --- */
+.page__content ul li {
+  margin-bottom: 0.5em;
+  line-height: 1.7;
+}
+
+/* --- Perspectives Section --- */
+.page__content h1#-perspectives + p {
+  font-style: italic;
+  color: #4a5568;
+  margin-bottom: 1.5em;
+}
+
+.page__content h1#-perspectives ~ p strong {
+  font-size: 1.05em;
+  color: #1a1a2e;
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* --- General Spacing --- */
+.page__content {
+  font-size: 0.95em;
+  line-height: 1.75;
+}
+
+/* --- Footer --- */
+.page__footer {
+  background: #1a1a2e;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.page__footer a {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* --- Mobile Responsive --- */
+@media (max-width: 768px) {
+  .page__content h1 {
+    font-size: 1.5em;
+    margin-top: 2em;
+  }
+
+  .paper-box-text {
+    padding: 1em !important;
+  }
+}
