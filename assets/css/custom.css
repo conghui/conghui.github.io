@@ -51,22 +51,24 @@
 
 /* --- Navbar Enhancement --- */
 .greedy-nav {
-  background: #1a1a2e !important;
+  background: #ffffff !important;
+  border-bottom: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
 .greedy-nav a {
-  color: rgba(255, 255, 255, 0.85) !important;
+  color: #4a5568 !important;
   font-weight: 500;
   font-size: 0.9em;
   letter-spacing: 0.02em;
 }
 
 .greedy-nav a:hover {
-  color: #fff !important;
+  color: #1a1a2e !important;
 }
 
 .greedy-nav .site-title {
-  color: #fff !important;
+  color: #1a1a2e !important;
   font-weight: 600;
 }
 
@@ -144,12 +146,13 @@
 
 /* --- Footer --- */
 .page__footer {
-  background: #1a1a2e;
-  color: rgba(255, 255, 255, 0.6);
+  background: #f8fafc;
+  border-top: 1px solid #e2e8f0;
+  color: #718096;
 }
 
 .page__footer a {
-  color: rgba(255, 255, 255, 0.8);
+  color: #4a5568;
 }
 
 /* --- Mobile Responsive --- */
