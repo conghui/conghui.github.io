@@ -102,7 +102,7 @@ I have authored over 200 papers with <span id="total_cit">Loading...</span> cita
 
 8. `ECCV 2024` [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281) — The definitive benchmark for evaluating multimodal models. 1,000+ citations.
 
-9. `ECCV 2024` [ShareGPT4V: Improving Large Multi-modal Models with Better Captions](https://arxiv.org/abs/2311.12793) — Demonstrating that data quality is the key to multimodal model performance.
+9. `2023` [WanJuan: A Comprehensive Multimodal Dataset for Advancing English and Chinese Large Models](https://arxiv.org/abs/2308.10755), **Conghui He**, et al. — A large-scale multimodal dataset bridging English and Chinese, laying the data foundation for multilingual large models.
 
 
 # 🎖 Honors
