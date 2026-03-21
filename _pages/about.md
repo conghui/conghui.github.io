@@ -34,35 +34,41 @@ We are hiring! I am actively seeking talented Ph.D. students, postdoctoral fello
 
 # 🚀 Impact
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/impact-mineru.png' alt='MinerU' width='300'></div></div><div class='paper-box-text' markdown="1">
+<div class='impact-card impact-blue' markdown="1">
 
-**[MinerU](https://github.com/opendatalab/MinerU)** — The world's leading open-source document parsing engine. Transforms unstructured documents (PDFs, scans, scientific papers) into high-quality, AI-ready data for large model training.
+### ⛏️ [MinerU](https://github.com/opendatalab/MinerU)
+
+The world's leading open-source document parsing engine. Transforms unstructured documents into high-quality, AI-ready data for large model training.
 
 ⭐ **50,000+** GitHub Stars &nbsp;&nbsp; 📊 **1B+** API Calls &nbsp;&nbsp; 🏢 **100+** Enterprise Users (Google, Huawei, Alibaba, etc.)
 
-[![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU)
+</div>
 
-</div></div>
+<div class='impact-card impact-teal' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/impact-omnidocbench.png' alt='OmniDocBench' width='300'></div></div><div class='paper-box-text' markdown="1">
+### 📏 [OmniDocBench](https://arxiv.org/abs/2412.07626)
 
-**Evaluation Standard** — Created [OmniDocBench](https://arxiv.org/abs/2412.07626), the document parsing evaluation benchmark officially adopted by **Google Gemini** and **OpenAI GPT** — the only Chinese-team contribution in their core evaluation suites.
+The document parsing evaluation benchmark officially adopted by **Google Gemini** and **OpenAI GPT** — the only Chinese-team contribution in their core evaluation suites.
 
-</div></div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/impact-opendatalab.png' alt='OpenDataLab' width='300'></div></div><div class='paper-box-text' markdown="1">
+<div class='impact-card impact-indigo' markdown="1">
 
-**[OpenDataLab](https://opendatalab.com/)** — Founded and leads the OpenDataLab team and open data ecosystem.
+### 🌐 [OpenDataLab](https://opendatalab.com/)
 
-👥 **300,000+** Developers Worldwide &nbsp;&nbsp; 📦 **7,000+** Datasets &nbsp;&nbsp; 🔍 **40M+** Data Retrievals
+Founded and leads the OpenDataLab team and open data ecosystem.
 
-</div></div>
+👥 **300,000+** Developers &nbsp;&nbsp; 📦 **7,000+** Datasets &nbsp;&nbsp; 🔍 **40M+** Retrievals
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/impact-internlm.png' alt='InternLM' width='300'></div></div><div class='paper-box-text' markdown="1">
+</div>
 
-**Foundation Model Data Engine** — Oversees the data pipeline for [InternLM](https://github.com/InternLM) and [InternVL](https://github.com/OpenGVLab/InternVL), processing **100PB** of raw data into **70T** high-quality tokens.
+<div class='impact-card impact-slate' markdown="1">
 
-</div></div>
+### 🧠 Foundation Model Data Engine
+
+Oversees the data pipeline for [InternLM](https://github.com/InternLM) and [InternVL](https://github.com/OpenGVLab/InternVL), processing **100PB** of raw data into **70T** high-quality tokens.
+
+</div>
 
 
 # 🔥 News

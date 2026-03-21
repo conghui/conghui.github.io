@@ -29,17 +29,49 @@
   margin-top: 0;
 }
 
-/* --- Impact Cards --- */
+/* --- Impact Cards (colored left border style) --- */
+.impact-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #1e3a5f;
+  border-radius: 8px;
+  padding: 1.2em 1.5em;
+  margin-bottom: 1em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.impact-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.impact-card h3 {
+  margin-top: 0 !important;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+  border-bottom: none !important;
+  padding-bottom: 0;
+}
+
+.impact-card p {
+  margin-bottom: 0.4em;
+}
+
+.impact-card p:last-child {
+  margin-bottom: 0;
+}
+
+/* Color variants */
+.impact-blue { border-left-color: #2563eb; }
+.impact-teal { border-left-color: #0d9488; }
+.impact-indigo { border-left-color: #4f46e5; }
+.impact-slate { border-left-color: #475569; }
+
+/* --- Paper box (for other uses) --- */
 .paper-box {
   margin-bottom: 1.2em !important;
   border-radius: 8px;
   overflow: hidden;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.paper-box:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .paper-box-text {
@@ -47,15 +79,6 @@
   background: #f8fafc;
   border: 1px solid #e2e8f0;
   border-radius: 8px;
-}
-
-/* Uniform impact card images */
-.paper-box-image img {
-  width: 300px;
-  height: 200px;
-  object-fit: contain;
-  border-radius: 8px;
-  box-shadow: none !important;
 }
 
 /* --- Navbar Enhancement --- */
