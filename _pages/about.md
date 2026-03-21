@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -32,7 +32,38 @@ I have authored over 150 papers in top-tier venues, garnered <span id="total_cit
 We are hiring! I am actively seeking talented Ph.D. students, postdoctoral fellows, interns, and full-time researchers. If you are passionate about building the future of AI, I welcome you to contact me via email.
 
 
-# 🔥 Recent News
+# 🚀 Impact
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**[MinerU](https://github.com/opendatalab/MinerU)** — The world's leading open-source document parsing engine. Transforms unstructured documents (PDFs, scans, scientific papers) into high-quality, AI-ready data for large model training.
+
+⭐ **50,000+** GitHub Stars &nbsp;&nbsp; 📊 **1B+** API Calls &nbsp;&nbsp; 🏢 **100+** Enterprise Users (Google, Huawei, Alibaba, etc.)
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**Evaluation Standard** — Created [OmniDocBench](https://arxiv.org/abs/2412.07626), the document parsing evaluation benchmark officially adopted by **Google Gemini** and **OpenAI GPT** — the only Chinese-team contribution in their core evaluation suites.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**[OpenDataLab](https://opendatalab.com/)** — Founded and leads the OpenDataLab team and open data ecosystem.
+
+👥 **300,000+** Developers Worldwide &nbsp;&nbsp; 📦 **7,000+** Datasets &nbsp;&nbsp; 🔍 **40M+** Data Retrievals
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**Foundation Model Data Engine** — Oversees the data pipeline for [InternLM](https://github.com/InternLM) and [InternVL](https://github.com/OpenGVLab/InternVL), processing **100PB** of raw data into **70T** high-quality tokens.
+
+</div></div>
+
+
+# 🔥 News
 - *2026.02*: 🎉 [1](https://openreview.net/pdf?id=rIPeatvPy3) [2](https://openreview.net/pdf?id=n9wS0Hdvri) [3](https://openreview.net/pdf?id=mIO3kVDC2L) [4](https://openreview.net/pdf?id=lZlZjSxdio) [5](https://openreview.net/pdf?id=dkIXAbWuxO) [6](https://openreview.net/pdf?id=RDAhLHEHDm) [7](https://openreview.net/pdf?id=LWw9yLNQfx) papers are accepted by ICLR 2026.
 - *2025.12*: 🎉 I received the Shanghai Science and Technology Youth 35 Leading Program (selected 35 scientists under the age of 35) [[News/报道](https://mp.weixin.qq.com/s/xZPx2jH0F3L51OsGuH4IaQ)]
 - *2025.09*: 🎉 [MinerU 2.5](https://github.com/opendatalab/MinerU) is released! A 1.2B-parameter document parsing vision-language model that achieves state-of-the-art recognition accuracy while maintaining exceptional computational efficiency. [[Tech Report](https://arxiv.org/abs/2509.22186)] [[Model](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B)] [[GitHub](https://github.com/opendatalab/MinerU)]
@@ -45,27 +76,66 @@ We are hiring! I am actively seeking talented Ph.D. students, postdoctoral fello
 - *2025.01*: 🎉 [1] papers is accepted by NACCL 2025.
 - *2025.01*: 🎉 [1](https://arxiv.org/abs/2410.09732) [2](https://arxiv.org/abs/2406.08418) [3](https://arxiv.org/abs/2409.16986) [4](https://openreview.net/pdf?id=C25SgeXWjE) [5](https://arxiv.org/abs/2310.05375) [6](https://arxiv.org/abs/2412.11863) [7](https://arxiv.org/abs/2410.17637) papers are accepted by ICLR 2025.
 
-# 💻 Open-source Projects
-- [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), the world's leading open-source data parsing engine for LLM/Rag/Agent.
-- [InternLM ![](https://img.shields.io/github/stars/InternLM?style=social)](https://github.com/InternLM), a series of leading LLM models developed by Shanghai AI Laboratory.  
-- [OpenDataLab](https://github.com/opendatalab)[![](https://img.shields.io/github/stars/opendatalab?style=social)](https://github.com/opendatalab), an open platform that facilitates the development of AGI by sharing datasets and open-sourced tools. It hosts over 7700 datasets and provides 50+ million data retrieval services to over 200,000 developers.
+# 📝 Selected Research
 
-# 📝 Selected Publications
-I have authored over 150 papers in top-tier venues, garnered over 9,000 citations on  [google scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ). Following are selected publicatioins. († Corresponding Authors) 
+I have authored over 200 papers with <span id="total_cit">Loading...</span> citations on [Google Scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ). Here are ten works that define my research trajectory:
 
-1. `ACL 2025` [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://arxiv.org/abs/2504.14194), Xinlin Zhuang, Jiahui Peng, Ren Ma, Yinfan Wang, Tianyi Bai, Xingjian Wei, Jiantao Qiu, Chi Zhang, Ying Qian, **Conghui He†** (**ACL best theme paper** 🎉)
-2. `ICLR 2025` [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/abs/2406.08418), Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, ..., **Conghui He†**, Jifeng Dai†
-3. `ECCV 2024` [Mmbench: Is your multi-modal model an all-around player?](https://arxiv.org/pdf/2307.06281), Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, **Conghui He**, Ziwei Liu, Kai Chen, Dahua Lin (**over 1000+ citations** 🎉)
-4. `ECCV 2024` [Sharegpt4v: Improving large multi-modal models with better captions](https://arxiv.org/pdf/2311.12793), Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, **Conghui He**, Jiaqi Wang, Feng Zhao, Dahua Lin
-5. `SC 2017`, [18.9-Pflops Nonlinear Earthquake Simulation on Sunway TaihuLight: Enabling Depiction of 18-Hz and 8-Meter Scenarios](https://ieeexplore.ieee.org/document/9926274), Haohuan Fu†, **Conghui He†**, Bingwei Chen, Zekun Yin, Zhenguo Zhang, Wenqiang Zhang, Tingjian Zhang, Wei Xue†, Weiguo Liu, Wanwang Yin, Guangwen Yang, Xiaofei Chen (**Gordon Bell Prize** 🎉)
+**Building AI Data Infrastructure**
 
+1. `2024` [MinerU: An Open-Source Solution for Precise Document Content Extraction](https://arxiv.org/abs/2409.18839) — Our flagship open-source document parsing engine. 50K+ GitHub stars, 1B+ API calls, adopted by 100+ enterprises. [![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU)
 
-# 🎖 Selected Honors
-- *2025*, ACL Best Theme Paper (3/8000)
-- *2025*, World Artificial Intelligence Conference Yunfan Award (one of 11 global recipients under the age of 35)
-- *2023*, SenseTime Award (Sensetime's highest award, 1 team from 100 teams)
-- *2019*, Tencent Technology Breakthrough Award - Gold Prize (highest technical award, 1 team from 50 teams)
-- *2018*, Outstanding Graduate PhD Student Award
-- *2017*, ACM Gordon Bell Prize (the highest award in the field of HPC applications)
-- *2017*, National PhD Scholarship （1%）
-- *2013*, Global Champion of the IEEE-IBM Smarter Planet Challenge (Team Leader, 1/54)
+2. `2024` [OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations](https://arxiv.org/abs/2412.07626) — The evaluation standard officially adopted by Google Gemini and OpenAI GPT. The only Chinese-team benchmark in their core evaluation suites.
+
+3. `2024` [OpenDataLab: Empowering General Artificial Intelligence with Open Datasets](https://arxiv.org/abs/2407.13773) — The open data ecosystem serving 300K+ developers with 7,000+ datasets and 40M+ retrievals.
+
+**Award-Winning Research**
+
+4. `SC 2017` [18.9-Pflops Nonlinear Earthquake Simulation on Sunway TaihuLight](https://ieeexplore.ieee.org/document/9926274), Haohuan Fu†, **Conghui He†**, et al. — Scaled earthquake simulations to 10 million cores, redefining the boundary of HPC applications. 🏆 **ACM Gordon Bell Prize**
+
+5. `ACL 2025` [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://arxiv.org/abs/2504.14194), Xinlin Zhuang, ..., **Conghui He†** — A principled approach to training data curation for LLMs. 🏆 **ACL Best Theme Paper Award**
+
+**Advancing Multimodal AI**
+
+6. `2025` [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479) — Powering one of the world's leading open-source multimodal models.
+
+7. `ICLR 2025` [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/abs/2406.08418) — A 10-billion-scale multimodal dataset advancing vision-language research.
+
+8. `ECCV 2024` [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281) — The definitive benchmark for evaluating multimodal models. 1,000+ citations.
+
+9. `ECCV 2024` [ShareGPT4V: Improving Large Multi-modal Models with Better Captions](https://arxiv.org/abs/2311.12793) — Demonstrating that data quality is the key to multimodal model performance.
+
+**Engineering at Scale**
+
+10. `IEEE BigData 2019` [Finding Mutual X at WeChat-Scale Social Network in Ten Minutes](https://ieeexplore.ieee.org/document/9006350), **Conghui He**, et al. — Built Plato, a graph engine achieving 10-100x speedup over Spark GraphX for WeChat's billion-user network. 🏆 **Tencent Technology Breakthrough Gold Award**
+
+# 🎖 Honors
+- *2026*, Shanghai Science and Technology Youth 35 Leading Program (35 scientists under 35)
+- *2025*, **ACL Best Theme Paper Award** — Top 3 from 8,000+ submissions (sole corresponding author)
+- *2025*, **WAIC Yunfan Award** — One of 10 global AI rising stars, World AI Conference
+- *2024*, **National Distinguished Young Talent** — State-level talent program
+- *2019*, **Tencent Technology Breakthrough Gold Award** — Highest technical honor, sole gold among 50+ teams
+- *2017*, **ACM Gordon Bell Prize** — The "Nobel Prize" of supercomputing
+- *2013*, **IEEE-IBM Smarter Planet Challenge Global Champion** — Team leader, 1st among 54 global university teams
+
+# 🎤 Talks & Media
+- *2026.03*, Invited Lecture: "Artificial Intelligence" for Senior Government Officials, Central Organization Department of China
+- *2023.10*, Tutorial: "An Introduction to OpenDataLab", IEEE/CVF International Conference on Computer Vision (ICCV), Paris
+- *2023.06*, Tutorial: "OpenDataLab: The Next-Generation Open Dataset Platform", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver
+
+*More talks and media appearances coming soon.*
+
+# 💡 Perspectives
+
+Thoughts on AI data, open source, and building infrastructure for the next era of intelligence.
+
+**The Data Bottleneck No One Talks About**
+
+Everyone is racing to build bigger models, but few are asking where the data comes from. The inconvenient truth: most of human knowledge — centuries of scientific papers, legal documents, financial reports, medical records — is locked in formats that AI cannot read. PDFs, scans, handwritten notes. We solved the compute scaling problem. The data scaling problem is next, and it's harder than most people think.
+
+**Why We Open-Sourced MinerU**
+
+When we built MinerU, we had a choice: keep it proprietary or open-source it. We chose open source — not out of idealism, but out of strategy. Data infrastructure is like roads: the more people use them, the more valuable they become. A proprietary parsing engine serves one company. An open standard serves an industry. Within a year, 300,000 developers proved us right.
+
+**The Standard-Setter's Advantage**
+
+In any maturing technology sector, whoever defines the evaluation standard shapes the direction of the entire field. When Google and OpenAI chose OmniDocBench as their benchmark, they weren't just validating our work — they were acknowledging that the rules of document AI are being written in Shanghai. Standards are the quiet infrastructure of innovation.

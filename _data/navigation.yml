@@ -1,16 +1,15 @@
-# main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
-
-  - title: "Recent News"
+  - title: "Impact"
+    url: "/#-impact"
+  - title: "News"
     url: "/#-news"
-
-  - title: "Open-source Projects"
-    url: "/#-projects"
-
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
-
-  - title: "Selected Honors"
-    url: "/#-selected-honors"
+  - title: "Research"
+    url: "/#-selected-research"
+  - title: "Honors"
+    url: "/#-honors"
+  - title: "Talks"
+    url: "/#-talks--media"
+  - title: "Perspectives"
+    url: "/#-perspectives"
