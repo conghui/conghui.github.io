@@ -104,9 +104,6 @@ I have authored over 200 papers with <span id="total_cit">Loading...</span> cita
 
 9. `ECCV 2024` [ShareGPT4V: Improving Large Multi-modal Models with Better Captions](https://arxiv.org/abs/2311.12793) — Demonstrating that data quality is the key to multimodal model performance.
 
-**Engineering at Scale**
-
-10. `IEEE BigData 2019` [Finding Mutual X at WeChat-Scale Social Network in Ten Minutes](https://ieeexplore.ieee.org/document/9006350), **Conghui He**, et al. — Built Plato, a graph engine achieving 10-100x speedup over Spark GraphX for WeChat's billion-user network. 🏆 **Tencent Technology Breakthrough Gold Award**
 
 # 🎖 Honors
 - *2026*, Shanghai Science and Technology Youth 35 Leading Program (35 scientists under 35)
