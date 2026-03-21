@@ -198,3 +198,24 @@
     padding: 1em !important;
   }
 }
+
+/* --- Language Switcher --- */
+.lang-switch {
+  margin-left: auto !important;
+}
+
+.lang-switch a {
+  font-weight: 600 !important;
+  color: #1e3a5f !important;
+  border: 1px solid #e2e8f0;
+  padding: 0.2em 0.8em;
+  border-radius: 4px;
+  font-size: 0.85em !important;
+  transition: all 0.2s ease;
+}
+
+.lang-switch a:hover {
+  background: #1e3a5f;
+  color: #fff !important;
+  border-color: #1e3a5f;
+}
