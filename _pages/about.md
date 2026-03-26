@@ -27,7 +27,7 @@ These experiences led me to a conviction: in the era of foundation models, the r
 
 So at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), I founded the [OpenDataLab](https://opendatalab.com/) team to break through this barrier. We developed [MinerU ![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social)](https://github.com/opendatalab/MinerU), which transforms unstructured documents into high-quality data that large models can learn from. Within a year of release, MinerU earned 50,000 GitHub stars with over 1 billion API calls, and is used in production by Google, Huawei, Alibaba, and over 100 other enterprises. Our team also curates high-quality datasets for leading models such as [InternLM](https://github.com/InternLM) and [InternVL](https://github.com/OpenGVLab/InternVL).
 
-I have authored over 150 papers in top-tier venues, garnered <span id="total_cit">Loading...</span> citations on Google Scholar, and received honors including the [Gordon Bell Prize](https://awards.acm.org/bell), an ACL Best Theme Paper Award, and the [WAIC Yunfan Award](https://mp.weixin.qq.com/s/4xoS-GyFfQWzdUKKCP7HNQ). I'm not just doing research — I'm building the data infrastructure for the AI era.
+I have authored over 200 papers in top-tier venues, garnered <span id="total_cit">Loading...</span> citations on Google Scholar, and received honors including the [Gordon Bell Prize](https://awards.acm.org/bell), an ACL Best Theme Paper Award, and the [WAIC Yunfan Award](https://mp.weixin.qq.com/s/4xoS-GyFfQWzdUKKCP7HNQ). I'm not just doing research — I'm building the data infrastructure for the AI era.
 
 We are hiring! I am actively seeking talented Ph.D. students, postdoctoral fellows, interns, and full-time researchers. If you are passionate about building the future of AI, I welcome you to contact me via email.
 
@@ -81,12 +81,12 @@ Oversees the data pipeline for [InternLM](https://github.com/InternLM) and [Inte
 - *2025.05*: 🎉 [1](https://arxiv.org/abs/2412.17007) [2](https://arxiv.org/abs/2503.15264) [3](https://arxiv.org/abs/2412.02592) [4](https://arxiv.org/abs/2408.01812) [5](https://arxiv.org/abs/2506.10857) papers are accepted by ICCV 2025.
 - *2025.05*: 🎉 [1](https://arxiv.org/abs/2503.16212) [2](https://arxiv.org/abs/2503.16212) [3](https://arxiv.org/abs/2504.12322) [4](https://arxiv.org/abs/2504.14194) [5](https://arxiv.org/abs/2503.21500) [6](https://arxiv.org/abs/2503.17439) [7](https://arxiv.org/abs/2502.11501) [8](https://arxiv.org/abs/2504.19093) [9](https://arxiv.org/abs/2402.17645) [10](https://arxiv.org/abs/2501.12273) [11](https://arxiv.org/abs/2505.12212) papers are accepted by ACL 2025.
 - *2025.02*: 🎉 [1](https://arxiv.org/abs/2412.07626) [2](https://arxiv.org/abs/2501.05510) [3](https://arxiv.org/abs/2409.03643) [4](https://arxiv.org/abs/2502.20653) [5](https://cvpr.thecvf.com/virtual/2025/poster/33817) papers are accepted by CVPR 2025.
-- *2025.01*: 🎉 [1] papers is accepted by NACCL 2025.
+- *2025.01*: 🎉 [1] paper is accepted by NAACL 2025.
 - *2025.01*: 🎉 [1](https://arxiv.org/abs/2410.09732) [2](https://arxiv.org/abs/2406.08418) [3](https://arxiv.org/abs/2409.16986) [4](https://openreview.net/pdf?id=C25SgeXWjE) [5](https://arxiv.org/abs/2310.05375) [6](https://arxiv.org/abs/2412.11863) [7](https://arxiv.org/abs/2410.17637) papers are accepted by ICLR 2025.
 
 # 📝 Selected Research
 
-I have authored over 200 papers with <span id="total_cit">Loading...</span> citations on [Google Scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ). Here are ten works that define my research trajectory:
+I have authored over 200 papers with <span id="total_cit">Loading...</span> citations on [Google Scholar](https://scholar.google.com/citations?user=PopTv7kAAAAJ). Here are selected works that define my research trajectory:
 
 **Building AI Data Infrastructure**
 
@@ -114,20 +114,23 @@ I have authored over 200 papers with <span id="total_cit">Loading...</span> cita
 
 
 # 🎖 Honors
-- *2026*, Shanghai Science and Technology Youth 35 Leading Program (35 scientists under 35)
+- *2026*, **Shanghai Top 35 Young Science & Technology Innovators**
 - *2025*, **ACL Best Theme Paper Award** — Top 3 from 8,000+ submissions (sole corresponding author)
 - *2025*, **WAIC Yunfan Award** — One of 10 global AI rising stars, World AI Conference
 - *2024*, **National Distinguished Young Talent** — State-level talent program
 - *2019*, **Tencent Technology Breakthrough Gold Award** — Highest technical honor, sole gold among 50+ teams
-- *2017*, **ACM Gordon Bell Prize** — The "Nobel Prize" of supercomputing
+- *2017*, **ACM Gordon Bell Prize** — Highest honor in high-performance computing
 - *2013*, **IEEE-IBM Smarter Planet Challenge Global Champion** — Team leader, 1st among 54 global university teams
 
 # 🎤 Talks & Media
-- *2026.03*, Invited Lecture: "Artificial Intelligence" for Senior Government Officials, Central Organization Department of China
+- *2026.03*, Invited Lecture, National Leadership Development Program, Beijing (AI & Data Theme)
+- *2025.08*, CSML 2025, Session Chair & Invited Talk, Beijing
+- *2025.07*, WAIC 2025 "Corpus Innovation Forum" Keynote: *MinerU2: Intelligent Engine from Heterogeneous Data to AI-Ready* · Co-keynote with CAS Academician E Weinan
+- *2025.02*, Global Developer Pioneer Conference "Pujiang AI Ecosystem Forum", Shanghai
 - *2023.10*, Tutorial: "An Introduction to OpenDataLab", IEEE/CVF International Conference on Computer Vision (ICCV), Paris
 - *2023.06*, Tutorial: "OpenDataLab: The Next-Generation Open Dataset Platform", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver
 
-*More talks and media appearances coming soon.*
+
 
 # 💡 Perspectives
 
