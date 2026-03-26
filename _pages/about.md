@@ -94,23 +94,19 @@ I have authored over 200 papers with <span id="total_cit">Loading...</span> cita
 
 2. `2024` [OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations](https://arxiv.org/abs/2412.07626) — The evaluation standard officially adopted by Google Gemini and OpenAI GPT. The only Chinese-team benchmark in their core evaluation suites.
 
-3. `2024` [OpenDataLab: Empowering General Artificial Intelligence with Open Datasets](https://arxiv.org/abs/2407.13773) — The open data ecosystem serving 300K+ developers with 7,000+ datasets and 40M+ retrievals.
-
 **Award-Winning Research**
 
-4. `SC 2017` [18.9-Pflops Nonlinear Earthquake Simulation on Sunway TaihuLight](https://ieeexplore.ieee.org/document/9926274), Haohuan Fu†, **Conghui He†**, et al. — Scaled earthquake simulations to 10 million cores, redefining the boundary of HPC applications. 🏆 **ACM Gordon Bell Prize**
+3. `SC 2017` [18.9-Pflops Nonlinear Earthquake Simulation on Sunway TaihuLight](https://ieeexplore.ieee.org/document/9926274), Haohuan Fu†, **Conghui He†**, et al. — Scaled earthquake simulations to 10 million cores, redefining the boundary of HPC applications. 🏆 **ACM Gordon Bell Prize**
 
-5. `ACL 2025` [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://arxiv.org/abs/2504.14194), Xinlin Zhuang, ..., **Conghui He†** — A principled approach to training data curation for LLMs. 🏆 **ACL Best Theme Paper Award**
+4. `ACL 2025` [Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models](https://arxiv.org/abs/2504.14194), Xinlin Zhuang, ..., **Conghui He†** — A principled approach to training data curation for LLMs. 🏆 **ACL Best Theme Paper Award**
 
 **Advancing Multimodal AI**
 
-6. `2025` [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479) — Powering one of the world's leading open-source multimodal models.
+5. `2025` [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479) — Powering one of the world's leading open-source multimodal models.
 
-7. `ICLR 2025` [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/abs/2406.08418) — A 10-billion-scale multimodal dataset advancing vision-language research.
+6. `ICLR 2025` [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/abs/2406.08418) — A 10-billion-scale multimodal dataset advancing vision-language research.
 
-8. `ECCV 2024` [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281) — The definitive benchmark for evaluating multimodal models. 1,000+ citations.
-
-9. `2023` [WanJuan: A Comprehensive Multimodal Dataset for Advancing English and Chinese Large Models](https://arxiv.org/abs/2308.10755), **Conghui He**, et al. — A large-scale multimodal dataset bridging English and Chinese, laying the data foundation for multilingual large models.
+7. `ECCV 2024` [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281) — The definitive benchmark for evaluating multimodal models. 2,000+ citations.
 
 
 # 🎖 Honors
@@ -147,3 +143,11 @@ When we built MinerU, we had a choice: keep it proprietary or open-source it. We
 **The Standard-Setter's Advantage**
 
 In any maturing technology sector, whoever defines the evaluation standard shapes the direction of the entire field. When Google and OpenAI chose OmniDocBench as their benchmark, they weren't just validating our work — they were acknowledging that the rules of document AI are being written in Shanghai. Standards are the quiet infrastructure of innovation.
+
+**The ROI of Data Over Architecture**
+
+The AI industry is split between two philosophies: brute-force scaling and surgical efficiency. When Grok 3 threw 200,000 GPUs at the problem and gained 10%, while DeepSeek-R1 achieved comparable results through reinforcement learning and data distillation at a fraction of the cost, the message was clear: raw compute has diminishing returns. The real leverage is in data quality. Public internet data will be exhausted by 2026-2028. The next frontier is "high knowledge density" data — not just the answers, but the reasoning processes behind them. Think of a scientist's thought process while writing a paper, or the iterative trial-and-error behind a mathematical proof. This is the data that separates capable models from truly intelligent ones. Until we see a paradigm shift in model architecture, data optimization remains the highest-ROI path to better AI. The teams that understand this will outperform those that simply buy more GPUs.
+
+**Why I Chose Data Over Models**
+
+Everyone wants to build the model. Few want to build what feeds it. When I made the decision to focus on data infrastructure, colleagues thought I was choosing the less glamorous path. They were right — and that was exactly the point. In a world where thousands of teams race to build the next frontier model, data is the unsexy bottleneck that everyone depends on but nobody wants to own. Models are global; data is local. It's tied to language, culture, industry, and regulation. In China's AI landscape — where compute and algorithms face increasing external constraints — data is one of the few dimensions where we can play offense, not defense. I also saw something most people missed: the gap between data supply and data demand was widening, not narrowing. Large models were getting hungrier, but the infrastructure to feed them wasn't keeping up. Someone had to build the roads before the cars could drive. That's what OpenDataLab and MinerU are — not research projects, but infrastructure.
