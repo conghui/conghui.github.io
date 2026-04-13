@@ -72,6 +72,8 @@ Oversees the data pipeline for [InternLM](https://github.com/InternLM) and [Inte
 
 
 # 🔥 News
+- *2026.04*: 🎉 [MinerU 2.5 Pro](https://github.com/opendatalab/MinerU) is released, achieving new SOTA on OmniDocBench v1.6! [[Tech Report](https://arxiv.org/abs/2509.22186)]
+- *2026.03*: 🎉 We released [Sciverse](https://sciverse.space/), a world-leading 100PB-scale AI-Ready database for AI for Science (AI4S).
 - *2026.02*: 🎉 [1](https://openreview.net/pdf?id=rIPeatvPy3) [2](https://openreview.net/pdf?id=n9wS0Hdvri) [3](https://openreview.net/pdf?id=mIO3kVDC2L) [4](https://openreview.net/pdf?id=lZlZjSxdio) [5](https://openreview.net/pdf?id=dkIXAbWuxO) [6](https://openreview.net/pdf?id=RDAhLHEHDm) [7](https://openreview.net/pdf?id=LWw9yLNQfx) papers are accepted by ICLR 2026.
 - *2025.12*: 🎉 I received the Shanghai Science and Technology Youth 35 Leading Program (selected 35 scientists under the age of 35) [[News/报道](https://mp.weixin.qq.com/s/xZPx2jH0F3L51OsGuH4IaQ)]
 - *2025.09*: 🎉 [MinerU 2.5](https://github.com/opendatalab/MinerU) is released! A 1.2B-parameter document parsing vision-language model that achieves state-of-the-art recognition accuracy while maintaining exceptional computational efficiency. [[Tech Report](https://arxiv.org/abs/2509.22186)] [[Model](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B)] [[GitHub](https://github.com/opendatalab/MinerU)]
